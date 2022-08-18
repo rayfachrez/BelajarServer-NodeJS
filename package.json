@@ -1,0 +1,19 @@
+{
+  "name": "sesi7cuyuniversity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nyala": "nodemon index.js"
+  },
+  "keywords": [
+    "belajar",
+    "backend"
+  ],
+  "author": "rayfachrez",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "rupiah-format": "^1.0.0"
+  }
+}
